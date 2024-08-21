@@ -1,3 +1,6 @@
+# Anasayfa
+
+
 # Muahidlik Nedir?
 ## Mukaddime
 Evvelinde bizler tanah ve cedid metinlerinin manasında tahrifi kabul ettiğimizi ancak gerek Kur'andan gerek ise eski mushaflardan ötürü bu metinlerin lafzî tahrifden yoksun olduğumuzu sizlere belirtmek isterim. Bir de hızlıca bu metinlerdeki amelî hükümle hakkında iki-üç kelam etmek gerekirse bu hükümler gerek Tanah'ın İncil tarafından ve her ikisinin de Kur'an tarafından kendi bağlıları için farklı şeriatlar olduğunu belirtmek isterim(5:48). Bizim üç temel ilkemiz vardır. Bunlar, Tasdik ilişkisi, Hıfz-ı Zikr ve Resul-Nebi ilişkisi. Bunları ilerleyen kısımlarda teker teker göreceğiz.
