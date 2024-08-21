@@ -1,7 +1,7 @@
 # *Anasayfa*
 
-Yazılarım:
-[Muahidlik Nedir?](https://padrosum.github.io/#Mukaddime) //
+Yazılarım:  
+[Muahidlik Nedir?](https://padrosum.github.io/#Mukaddime)  
 [Tanrı'nın Mahiyeti Hususunda](https://padrosum.github.io/#giriş)
 
 ## Muahidlik Nedir?
