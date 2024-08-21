@@ -18,3 +18,6 @@ Kur'anı düz okuma methoduyla okuduğumuzda bir şey fark ederiz o da Kur'anda 
 Kaynak:
 
 https://x.com/padrosum/status/1826225519299588486
+
+# Tanrı'nın Mahiyeti Hususunda
+## Giriş
