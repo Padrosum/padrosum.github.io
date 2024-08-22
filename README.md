@@ -1,6 +1,6 @@
 # **Anasayfa**
 
-Linkler:
+Linkler:  
 [Twitter](https://x.com/padrosum)  
 [Fatiha Meal-Tefsir](https://padrosum.github.io/tefsir/fatiha.html)
 
