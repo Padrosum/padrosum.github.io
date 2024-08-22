@@ -53,6 +53,8 @@ Bu yüzden şöyle bir tasnif yaparız:
 - Resul: Melekler ve İnsanlar  
 - Nebi:İnsan/Beşerî Resul'dur
 
+![Resul-Nebi](https://pbs.twimg.com/media/GTMYWB5WoAEv2o2?format=png&name=small)
+
 [Ana Kaynak](https://x.com/padrosum/status/1826225519299588486)
 
 ## Tanrı'nın Mahiyeti Hususunda
