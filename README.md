@@ -1,4 +1,6 @@
-# *Anasayfa*
+---
+title: Anasayfa
+---
 
 Yazılarım:  
 [Muahidlik Nedir?](https://padrosum.github.io/#Mukaddime)  
