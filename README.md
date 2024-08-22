@@ -2,6 +2,7 @@
 
 Linkler:  
 [Twitter](https://x.com/padrosum)  
+[Yazılar](https://padrosum.github.io/yazılar/index.html)
 [Fatiha Meal-Tefsir](https://padrosum.github.io/tefsir/fatiha.html)
 
 ## Muahidlik Nedir?
