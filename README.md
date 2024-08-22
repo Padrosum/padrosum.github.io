@@ -2,7 +2,7 @@
 
 Yazılarım:  
 [Muahidlik Nedir?](https://padrosum.github.io/#Mukaddime)  
-[Tanrı'nın Mahiyeti Hususunda](https://padrosum.github.io/#Tanrı)
+[Tanrı'nın Mahiyeti Hususunda](https://padrosum.github.io/#Giriş)
 
 ## Muahidlik Nedir?
 ### Mukaddime
@@ -59,5 +59,5 @@ Bu yüzden şöyle bir tasnif yaparız:
 
 ## Tanrı'nın Mahiyeti Hususunda
 
-### Tanrı
+### Giriş
 
