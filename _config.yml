@@ -1,2 +1,6 @@
 theme: jekyll-theme-tactile
 remote_theme: jekyll-theme-tactile
+
+markdown: kramdown
+paginate: 5  # Sayfa başına gösterilecek yazı sayısı
+paginate_path: "/page:num/"
