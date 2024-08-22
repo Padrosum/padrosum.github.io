@@ -58,4 +58,19 @@ Bu yüzden şöyle bir tasnif yaparız:
 
 [Ana Kaynak](https://x.com/padrosum/status/1826225519299588486)
 
+## Şiir
+
+> Rab’bin nüzul ettirdiği,  
+Kelam-ı İlahî bize.  
+Baalların buyurduğu,  
+Elkitabus Satan size.  
+Rab dedi “Tasdik” diye,  
+Kullar dedi “Bozuk” diye.  
+Hüküm verdi kâfir,  
+Bunlar ilahî diyerek.  
+Yazdılar elleriyle ekler,  
+Kitabullah yetersizmiş.  
+Eklendi Talmud ve Hadis,  
+Bunlar İlahî diyerek.
+
 
