@@ -10,11 +10,13 @@ geleneğin getirdiği her argümana karşı iki argüman getirmeye özen göster
 
 ## Blog Yazıları
 
-{% for post in site.posts %}
-### [{{ post.title }}]({{ post.url }})
-*Yayınlanma Tarihi:* {{ post.date | date: "%d %B %Y" }}
+{% assign posts = site.pages | where_exp: "page", "page.path contains '_posts/'" %}
 
-{{ post.excerpt }}
+{% for post in posts %}
+### [{{ post.title }}]({{ post.url }})
+*Dosya Yolu:* {{ post.path }}
+
+{{ post.content | strip_html | truncatewords: 50 }}
 
 ---
 
