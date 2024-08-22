@@ -62,14 +62,14 @@ Bu yüzden şöyle bir tasnif yaparız:
 
 Rab’bin nüzul ettirdiği,  
 Kelam-ı İlahî bize.  
-Baalların buyurduğu,  
-Elkitabus Satan size.  
+İblislerin indirdiği,  
+Bu Kütub’uş Şeytân size.  
 Rab dedi “Tasdik” diye,  
 Kullar dedi “Bozuk” diye.
 
-Hüküm verdi kâfir,  
+Verdi kâfirler, Hükümler,  
 Bunlar ilahî diyerek.  
-Yazdılar elleriyle ekler,  
+Yazdı elleriyle ekler,  
 Kitabullah yetersizmiş.  
 Eklendi Talmud ve Hadis,  
 Bunlar İlahî diyerek.
