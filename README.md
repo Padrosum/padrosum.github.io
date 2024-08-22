@@ -60,18 +60,18 @@ Bu yüzden şöyle bir tasnif yaparız:
 
 ## Şiir
 
-Rab’bin nüzul ettirdiği,  
-Kelam-ı İlahî bize.  
-İblislerin indirdiği,  
-Bu Kütub’uş Şeytân size.  
-Rab dedi “Tasdik” diye,  
-Kullar dedi “Bozuk” diye.
+Rab’bin nüzul ettirdiği  
+Kelam-ı İlahî bize  
+İblislerin indirdiği  
+Bu Kütub’uş Şeytân size  
+Rab dedi “Tasdik” diye  
+Kullar dedi “Bozuk” diye  
 
-Verdi kâfirler, Hükümler,  
-Bunlar ilahî diyerek.  
-Yazdı elleriyle ekler,  
-Kitabullah yetersizmiş.  
-Eklendi Talmud ve Hadis,  
-Bunlar İlahî diyerek.
+Hükümler verdi kâfirler  
+Yazdı elleriyle ekler  
+Bunlar ilahî diyerek   
+Kitabullah'da eksikler  
+Dahil edildi Talmudlar   
+Bunlar İlahî diyerek. 
 
 
