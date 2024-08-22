@@ -3,7 +3,7 @@ title: "Ana Sayfa"
 layout: default
 ---
 
-# Hoş Geldiniz
+# Mukaddime
 
 Ben Padros, uzun zamandır **X**'ten felsefî ve teolojik paylaşımlar yapıyorum.  
 Bulunduğum pozisyonun radikâl olduğunu elbette biliyor ve geleneğin getirdiği her argümana karşı iki argüman getirmeye özen gösteriyorum.
