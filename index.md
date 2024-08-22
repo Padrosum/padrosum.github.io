@@ -8,7 +8,7 @@ layout: default
 Ben Padros, uzun zamandır **X**'ten felsefî ve teolojik paylaşımlar yapıyorum.  
 Bulunduğum pozisyonun radikâl olduğunu elbette biliyor ve geleneğin getirdiği her argümana karşı iki argüman getirmeye özen gösteriyorum.
 
-## Blog Yazıları
+## Yazılarım
 
 {% assign posts = site.pages | where_exp: "page", "page.path contains '_posts/'" %}
 
