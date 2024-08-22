@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 Not Found</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: 'Arial', sans-serif;
+            background: #2c3e50;
+            color: #ecf0f1;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            max-width: 600px;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 6rem;
+            margin: 0;
+            letter-spacing: 10px;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin: 10px 0;
+        }
+
+        p {
+            font-size: 1rem;
+            margin: 20px 0;
+        }
+
+        .back-btn {
+            padding: 10px 20px;
+            border: 2px solid #ecf0f1;
+            color: #ecf0f1;
+            text-decoration: none;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            transition: all 0.3s ease;
+        }
+
+        .back-btn:hover {
+            background: #ecf0f1;
+            color: #2c3e50;
+        }
+
+        .glitch {
+            position: relative;
+            color: #ecf0f1;
+            font-size: 6rem;
+            line-height: 1;
+            display: inline-block;
+        }
+
+        .glitch::before,
+        .glitch::after {
+            content: '404';
+            position: absolute;
+            top: 0;
+            left: 0;
+            opacity: 0.8;
+            clip: rect(0, 900px, 0, 0);
+        }
+
+        .glitch::before {
+            left: 2px;
+            text-shadow: -2px 0 #ff00c1;
+            animation: glitch 2s infinite linear alternate-reverse;
+        }
+
+        .glitch::after {
+            left: -2px;
+            text-shadow: -2px 0 cyan;
+            animation: glitch 1s infinite linear alternate-reverse;
+        }
+
+        @keyframes glitch {
+            0% {
+                clip: rect(24px, 9999px, 64px, 0);
+            }
+            20% {
+                clip: rect(0px, 9999px, 100px, 0);
+            }
+            40% {
+                clip: rect(40px, 9999px, 90px, 0);
+            }
+            60% {
+                clip: rect(20px, 9999px, 80px, 0);
+            }
+            80% {
+                clip: rect(30px, 9999px, 110px, 0);
+            }
+            100% {
+                clip: rect(10px, 9999px, 70px, 0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="glitch">404</div>
+        <h2>Oops! Page not found</h2>
+        <p>Sorry, but the page you are looking for doesn't exist, has been removed, or is temporarily unavailable.</p>
+        <a class="back-btn" href="/">Go to Home</a>
+    </div>
+
+    <script>
+        // Javascript can be added for more interactivity or functionality
+    </script>
+</body>
+</html>
