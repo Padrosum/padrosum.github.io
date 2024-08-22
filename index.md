@@ -5,8 +5,8 @@ layout: default
 
 # Hoş Geldiniz
 
-Ben Padros, uzun zamandır **X**'ten felsefî ve teolojik paylaşımlar yapıyorum. Bulunduğum pozisyonun radikâl olduğunu elbette biliyor ve  
-geleneğin getirdiği her argümana karşı iki argüman getirmeye özen gösteriyorum.
+Ben Padros, uzun zamandır **X**'ten felsefî ve teolojik paylaşımlar yapıyorum.  
+Bulunduğum pozisyonun radikâl olduğunu elbette biliyor ve geleneğin getirdiği her argümana karşı iki argüman getirmeye özen gösteriyorum.
 
 ## Blog Yazıları
 
