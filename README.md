@@ -60,12 +60,13 @@ Bu yüzden şöyle bir tasnif yaparız:
 
 ## Şiir
 
-> Rab’bin nüzul ettirdiği,  
+Rab’bin nüzul ettirdiği,  
 Kelam-ı İlahî bize.  
 Baalların buyurduğu,  
 Elkitabus Satan size.  
 Rab dedi “Tasdik” diye,  
-Kullar dedi “Bozuk” diye.  
+Kullar dedi “Bozuk” diye.
+
 Hüküm verdi kâfir,  
 Bunlar ilahî diyerek.  
 Yazdılar elleriyle ekler,  
