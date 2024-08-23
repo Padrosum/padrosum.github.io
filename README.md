@@ -78,6 +78,9 @@ Tanrı'nın bir sureti ve dolayısıyla maddî ve formal nedene sahip olduğu ma
 Buna şu cevabı veririm John 4:24'de Tanrı'nın ruh olduğunu söyleyen kitap burada suretten kastının bu olmadığı açıktır. Elbette İlk Nedene sahip olan Tanrı, bundan münezzehtir.  
 Bunun için ["Şu Link"](https://padrosum.github.io/yazılar/Tanrının-mahiyeti.html)'deki yazımı okuyabilirsiniz. Bu ifadelerin maksadını bir yahudi tarafından şu şekilde anlaşılamtadır: [Link](https://x.com/danieljudah121/status/1812011757541450170).
 
+Eren gibi felsefeyi reddeden veyahud bu açıklamaları yeretsiz görenler için:  
+[Buhari'deki Allah'ın Adem'i kendi suretinde yaratması hadisi](https://sunnah.com/bukhari:6227)
+
 
 ##### **Ebedi Tanrı, dinlenir mi?**  
 
