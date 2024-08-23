@@ -7,7 +7,8 @@ Linkler:
 
 # Muahidlik Nedir?
 ### Mukaddime
-Evvelinde bizler tanah ve cedid metinlerinin manasında tahrifi kabul ettiğimizi ancak gerek Kur'andan gerek ise eski mushaflardan ötürü bu metinlerin lafzî tahrifden yoksun olduğumuzu sizlere belirtmek isterim. Bir de hızlıca bu metinlerdeki amelî hükümle hakkında iki-üç kelam etmek gerekirse bu hükümler gerek Tanah'ın İncil tarafından ve her ikisinin de Kur'an tarafından kendi bağlıları için farklı şeriatlar olduğunu belirtmek isterim(5:48). Bizim üç temel ilkemiz vardır. Bunlar şunlardır:  
+Evvelinde bizler tanah ve cedid metinlerinin manasında tahrifi kabul ettiğimizi ancak gerek Kur'andan gerek ise eski mushaflardan ötürü bu metinlerin lafzî tahrifden yoksun olduğu görüşünde olduğumuzu sizlere belirtmek isterim. Bir de hızlıca bu metinlerdeki amelî hükümlerin kendi bağlıları için olduğunu belirtmek isterim(5:48).  
+Bizim üç temel ilkemiz vardır. Bunlar şunlardır:  
 
 - Tasdik ilişkisi  
 - Hıfz-ı Zikr  
@@ -17,10 +18,13 @@ Bunları ilerleyen kısımlarda teker teker göreceğiz.
 
 ### Tasdik ilişkisi
 
-Tasdik, sdk'ın -mek/maklısıdır nitekim musadık ise bunun fail'idir. Sözlükte doğrulamak anlamına gelen bu kelime Kur'anda bir şeyi tam anlamıyla doğrulamak manasında kullanılmıştır(37:52). Önceki kitaplar için 2:40-41, 3:3, 5:48 vb ayetlerinde de gördüğümüz budur. Nitekim müfessir Taberi 3:3'deki tasdik için şunları söylemiştir; "Öncekileri tasdik edici olarak” ise, bu, Kur’an’ın, Allah’ın peygamberlerine ve elçilerine indirdiği daha önceki kitapları tasdik ettiğini, Allah’ın elçilerinin getirdiği şeyleri doğruladığını ifade eder. Çünkü tüm bunları indiren tek bir kaynaktır, dolayısıyla aralarında bir çelişki olmaz. Eğer başkasından olsaydı, içinde birçok çelişki olurdu." 
+Tasdik, sdk'ın -mek/maklısıdır nitekim *musadık* ise bunun fail'idir. Sözlükte doğrulamak anlamına gelen bu kelime Kur'an'da bir şeyi tam manasıyla doğrulamak manasında kullanılmıştır(37:52). Önceki kitaplar için de 2:40-41, 3:3, 5:48 vb ayetlerinde, bu kitapları doğrulaması da aynı anlamdadır.  
+
+Nitekim müfessir Taberi 3:3'deki tasdik için şunları söylemiştir:  
+"Öncekileri tasdik edici olarak” ise, bu, Kur’an’ın, Allah’ın peygamberlerine ve elçilerine indirdiği daha önceki kitapları tasdik ettiğini, Allah’ın elçilerinin getirdiği şeyleri doğruladığını ifade eder. Çünkü tüm bunları indiren tek bir kaynaktır, dolayısıyla aralarında bir çelişki olmaz. Eğer başkasından olsaydı, içinde birçok çelişki olurdu."  
 [Kaynak](https://tafsir.app/tabari/3/3)
 
-Biz biliyoruz ki havariler ve İsa, İncil metni içinde Tevrat'a birçok atıf ve itikadî konularda Tevrat'a atıf yapıyordu dolayısıyla incil metnini doğruluyor idi. Maide 46'da İsa'nın Tevrat'ı tasdik etmesi bu manaya gelmektedir. Eğer derseniz **Tasdik etmek, doğrulamak değil** ben de delil olarak bu ayeti ve Tarihî ve İlahî bilgileri delil getiririm.   
+Tarihî ve Kitabî bilgiler bize şu gerçeği göstermektedir ki İncil bağlıları kendi kitaplarının yanında Tevrat'ı da kabul edip itikadî konularda kullanıyordu. Kur'an ise Maide 46'de İsa'nın Tevrat'ı tasdik ettiğini söylemektedir. Bu iki bilgi ışığında 3:3'deki Kur'an'ın tasdiğini de aynı anlamda anlamak gerekir.
 
 "Kanunu ya da Peygamberlerin sözlerini geçersiz kılmak için geldiğimi düşünmeyin. Ben bunları geçersiz kılmaya değil, yerine getirmeye geldim."
 - Matt 5:17
