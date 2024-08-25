@@ -136,6 +136,12 @@ Gelenek ilgili ayetteki benzer göründü ibaresinden ve bağlamdan ötürü bir
 
 [Ana Kaynak](https://x.com/padrosum/status/1826225519299588486)
 
+
+## İlahî Kitapların tahrifini manada görenler:
+
+VEHB b. MÜNEBBİH, [Kaynak](https://tafsir.app/ibn-katheer/3/78)
+
+
 ## Şiir
 
 Rab’bin nüzul ettirdiği  
