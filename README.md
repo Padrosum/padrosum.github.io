@@ -7,7 +7,7 @@ Linkler:
 
 # Muahidlik Nedir?
 ### Mukaddime
-Evvelinde bizler tanah ve cedid metinlerinin manasında tahrifi kabul ettiğimizi ancak gerek Kur'andan gerek ise eski mushaflardan ötürü bu metinlerin lafzî tahrifden yoksun olduğu görüşünde olduğumuzu sizlere belirtmek isterim. Bir de hızlıca bu metinlerdeki amelî hükümlerin kendi bağlıları için olduğunu belirtmek isterim(5:48).  
+Evvelinde bizler tanah ve cedid metinlerinin manasında tahrifi kabul ettiğimizi ancak gerek Kur'andan gerek ise eski mushaflardan ötürü bu metinlerin lafzî tahrifden yoksun olduğu görüşünde olduğumuzu sizlere belirtmek isterim [Delil](https://tafsir.app/ibn-katheer/3/78). **Nitekim Tahrif'in manası şudur "Sözlükte “yönelmek, meyletmek, sapmak” mânasındaki harf kökünden türeyen tahrîf “iki şekilde yorumlanması mümkün olan bir sözü bir tarafa çekmek” (Râgıb el-İsfahânî, el-Müfredât, “ḥrf” md.), “kelimenin veya sözün anlamını benzer anlamlarla değiştirmek” (Lisânü’l-ʿArab, “ḥrf” md.)" [Kaynak](https://islamansiklopedisi.org.tr/tahrif--kitap).** Bir de hızlıca bu metinlerdeki amelî hükümlerin kendi bağlıları için olduğunu belirtmek isterim(5:48).  
 Bizim üç temel ilkemiz vardır. Bunlar şunlardır:  
 
 - Tasdik ilişkisi  
