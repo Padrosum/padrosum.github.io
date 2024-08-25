@@ -69,7 +69,8 @@ Bu başlık altında kendine müslüman diyen ve Kur'an bağlısı olduğunu idd
 - **Tevrat(תָּנָ״ךְ - Atîk) Eleştirileri**  
 - **İncil(Cedid - εὐαγγέλιον.) Eleştirileri**
 
-#### Tevrat Eleştirileri
+### Tevrat Eleştirileri  
+
 ##### **İnsanların Tanrı'nın suretinde yaratılması:**  
 
 "Tanrı, “Kendi suretimizde, kendimize benzer insan yaratalım” dedi, “Denizdeki balıklara, gökteki kuşlara, evcil hayvanlara, sürüngenlere, yeryüzünün tümüne egemen olsun.”  
@@ -101,9 +102,37 @@ Nitekim Tanah'ın içinde de Kur'andaki "Allah yorulmaz" manasındaki ayete benz
 "Bilmiyor musun, duymadın mı? Ebedi Tanrı, RAB, bütün dünyayı yaratan, Ne yorulur ne de zayıflar, O'nun bilgisi kavranamaz. Yorulanı güçlendirir, Takati olmayanın kudretini artırır. Gençler bile yorulup zayıf düşer, Yiğitler tökezleyip düşerler. RAB'be umut bağlayanlarsa taze güce kavuşur, Kanat açıp yükselirler kartallar gibi. Koşar ama zayıf düşmez, Yürür ama yorulmazlar."
 - İşeya 40:28-31(TLC02, Hristiyan Çevirisi)
   
+### İncil Eleştirileri  
+
+#### Çarmıh Meselesi:
+*İlgili soruyu yönelten kişi X'ten @JeuneTurkt mahlaslı kullanıcı*
 
 
+"ve: "Biz Allah'ın peygamberi Meryem oğlu İsa Mesih'i öldürdük." demeleri yüzünden. **Oysa onu ne öldürdüler, ne de astılar.** Fakat kendilerine bir **benzetme** yapıldı. Onda anlaşmazlığa düşenler bundan dolayı şüphe içindedirler, o hususta tahmin peşinde gitmekten başka hiç bir bilgileri yoktur. Kesin olarak O'nu öldürmediler.
+"  
 
+- Kur'an, 4:157
+
+"Onu haça gerdikler ve esvabını, kura ile aralarında paylaştılar."  
+
+- Matt 27:35
+
+Okuyucular üstün körü bir okuma yaptığında -Kendimden biliyorum- şöyle bir fikre kapılabilirler: "İsa çarmıha gerilmedi."  
+Lakin İlgili Kur'an metni bize farklı bir şey söylemekte, O şey: "Onu katletmediler ve çarmıha asmadılar"'dır. Bir önceki Ayette Meryem'e iftira atanların olduğunu görüyoruz. İfiranın içeriği şimdilik önemli değil. Ama İsa'ya yönelik kim "Biz onu Katlettik ve Çarmıha gerdik, Madem Tanrı peygamberi kurtarsaydı ya kendini" demiş? Veyahut kim İsa'yı öldürmek için planlar yapmıştı? 
+
+👇 - 👇
+
+"Sabah olunca, bütün başkahinler ile ulusun ihtiyarları İsa'yı öldürmek için ona karşı birleştiler ve dahi İsa'yı bağlayıp O'nu Pilatus'a vermek için götürdüler."  
+ 
+- Matt 27:1-2
+
+ İlgili Kur'an ayetini şu şekilde anlamak lazım:  
+ 
+"ve: "Biz Allah'ın peygamberi Meryem oğlu İsa Mesih'i öldürdük." demeleri yüzünden( ki onlar bütün başkahinler ile ulusun ihtiyarları idi ). **Oysa (bütün başkahinler ile ulusun ihtiyarları) onu ne öldürdüler, ne de astılar.** Fakat kendilerine bir **benzetme(O'nu kendileri öldürmüş gibi sandılar)** yapıldı. Onda anlaşmazlığa düşenler bundan dolayı şüphe içindedirler, o hususta tahmin peşinde gitmekten başka hiç bir bilgileri yoktur(Zira İlahî bir bilgiden yoksunlar). Kesin olarak O'nu öldürmediler."
+
+- Kur'an 4:157, Benim anlayışım.
+
+Gelenek ilgili ayetteki benzer göründü ibaresinden ve bağlamdan ötürü bir başka kişinin İsa yerine **Çarmıha** gerildiğini söylemiştir. Lakin bu görüş hem İlahî tasdikten geçen bir kitapa aykırı hem de kaynaksızdır.
 
 [Ana Kaynak](https://x.com/padrosum/status/1826225519299588486)
 
