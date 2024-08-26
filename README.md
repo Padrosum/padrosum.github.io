@@ -134,7 +134,7 @@ Lakin İlgili Kur'an metni bize farklı bir şey söylemekte, O şey: "Onu katle
 
 - Kur'an 4:157, Benim anlayışım.
 
-Nitekim İsa: "Eğer göklerden bir yetki verilmeseydi sen bunlary yapamazdın" anlamında John 19:10-11'de Pilatus'a cevap vermiştir. Bunun manasını Nisa 157 ile beraber gözler önüne sermek lazım gelir.
+Nitekim İsa: "Eğer göklerden bir yetki verilmeseydi sen bunları yapamazdın" anlamında John 19:10-11'de Pilatus'a cevap vermiştir. Devamında ise beni sana teslim edenlerin günahı daha fazladır demiştir. Bunun manasını Nisa 157 ile beraber gözler önüne sermek lazım gelir.
 
 Gelenek ilgili ayetteki benzer göründü ibaresinden ve bağlamdan ötürü bir başka kişinin İsa yerine **Çarmıha** gerildiğini söylemiştir. Lakin bu görüş hem İlahî tasdikten geçen bir kitapa aykırı hem de kaynaksızdır.
 
