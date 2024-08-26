@@ -3,7 +3,16 @@
 Linkler:  
 [Twitter](https://x.com/padrosum)  
 [Yazılar](https://padrosum.github.io/yazılar/index.html)  
-[Fatiha Meal-Tefsir](https://padrosum.github.io/tefsir/fatiha.html)
+[Yeni Dünya Çevirisi - Yahova Şahitleri](https://www.jw.org/tr/kutuphane/kutsal-kitap/bi12/kitaplar/)  
+[Eski Çeviri](https://www.presbiteryen.org/kkeski.html)  
+[Açıklamalı Kutsal Kitap](https://kutsalkitap.info.tr)  
+[BibleHub](https://biblehub.com)  
+[GreekBible](https://www.greekbible.com)
+[Codex Sinaticus](https://codexsinaiticus.org/en/) - Eski Mushaf.  
+[Açık Kur'an](https://acikkuran.com)  
+[Hamidullah Meal](https://archive.org/details/aziz-kuran-ceviri-ve-aciklama-muhammed-hamidullah-metinsiz/page/n1/mode/2up) - Güzel Literal Çeviri.  
+[Muhammed Esed Tefsir](https://kuran.gen.tr/fatiha-suresi-turkce-muhammed-esed-kuran-tefsiri?x=s_main&y=s_middle&kid=31&sid=1) - Ehl-i Sünnet'ten iyidir.  
+[Mustafa Öztürk](https://www.kitapyurdu.com/kitap/kurani-kerim-meali-anlam-ve-yorum-merkezli-ceviri-buyuk-boy/354952.html?srsltid=AfmBOoqpMNRgx1SslL-3aJIt5e4UYVhsRDPJZy9fGJeqf2zCvfYvZwDW) - Bilgili bir hocamız.  
 
 # Muahidlik Nedir?
 ### Mukaddime
