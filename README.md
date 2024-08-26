@@ -29,6 +29,8 @@ Tarihî ve Kitabî bilgiler bize şu gerçeği göstermektedir ki İncil bağlı
 "Kanunu ya da Peygamberlerin sözlerini geçersiz kılmak için geldiğimi düşünmeyin. Ben bunları geçersiz kılmaya değil, yerine getirmeye geldim."
 - Matt 5:17
 
+[Daha fazlası için](https://hikmetmetodu.blogspot.com/2023/12/nesh-tasdik-iliskisi-tevrat-ve-incil_30.html), Tasdik babı. 
+
 ### Hıfz-ı Zikr
 
 Kelime kelime anlamı Zikr'in korunmuşluğu olan bu ilke 15:9 çevresinde dönmektedir. Grammer kitaplarında El takısı *X( [Kaynak](https://isamveri.org/pdfdrg/D01777/2004_18/2004_18_GURKANN.pdf) ), sf 365, Cinsi Belirleme babı*'ndaki gibi yorumlanması münkündür. Bu bakımdan El-Zikr'i cins isim olarak ele alırsak Kur'anda zikr hangi kitap için de kullanıldığını 21:105'den bakarsak ilgili ayetten şunu anlarız "Şüphesiz Zikr'i(Tevrat, Kuran) biz indirdik ve koruyanda biziz". 
