@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blackjack Oyunu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #2c3e50;
+        }
+        .game-container {
+            background-color: #34495e;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            color: white;
+            position: relative;
+        }
+        button {
+            background-color: #3498db;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:disabled {
+            background-color: #95a5a6;
+            cursor: not-allowed;
+        }
+        .hand {
+            display: flex;
+            justify-content: center;
+            margin: 10px 0;
+            min-height: 100px;
+        }
+        .card {
+            width: 60px;
+            height: 90px;
+            background-color: white;
+            border-radius: 5px;
+            margin: 0 5px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 20px;
+            color: black;
+            position: relative;
+            transition: transform 0.3s ease;
+        }
+        .card::after {
+            content: attr(data-suit);
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            font-size: 14px;
+        }
+        .red {
+            color: red;
+        }
+        .face-card::before {
+            content: '👑';
+            position: absolute;
+            top: 5px;
+            left: 5px;
+            font-size: 14px;
+        }
+        #money, #bet {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+        #bet-input {
+            width: 100px;
+            padding: 5px;
+            font-size: 16px;
+        }
+        @keyframes dealCard {
+            from {
+                transform: translateY(-100px) rotate(10deg);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0) rotate(0deg);
+                opacity: 1;
+            }
+        }
+        .deal-animation {
+            animation: dealCard 0.5s ease-out;
+        }
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.4);
+            animation: fadeIn 0.5s;
+        }
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            max-width: 400px;
+            text-align: center;
+            border-radius: 10px;
+            animation: slideIn 0.5s;
+        }
+        @keyframes fadeIn {
+            from {opacity: 0}
+            to {opacity: 1}
+        }
+        @keyframes slideIn {
+            from {transform: translateY(-300px); opacity: 0;}
+            to {transform: translateY(0); opacity: 1;}
+        }
+        .win {
+            color: #2ecc71;
+            font-size: 24px;
+        }
+        .lose {
+            color: #e74c3c;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="game-container">
+        <h1>Blackjack</h1>
+        <div id="money">Bakiye: $1000</div>
+        <div id="bet">Bahis: $0</div>
+        <input type="number" id="bet-input" min="1" max="1000" value="10">
+        <button id="place-bet-button">Bahis Yatır</button>
+        <div id="dealer-hand" class="hand">Krupiye eli: </div>
+        <div id="player-hand" class="hand">Oyuncu eli: </div>
+        <div id="messages"></div>
+        <button id="hit-button" disabled>Kart Çek</button>
+        <button id="stand-button" disabled>Kal</button>
+        <button id="new-game-button">Yeni Oyun</button>
+    </div>
+
+    <div id="result-modal" class="modal">
+        <div class="modal-content">
+            <h2 id="result-title"></h2>
+            <p id="result-message"></p>
+            <button id="play-again-button">Tekrar Oyna</button>
+        </div>
+    </div>
+
+    <script>
+        const dealerHandElement = document.getElementById('dealer-hand');
+        const playerHandElement = document.getElementById('player-hand');
+        const messagesElement = document.getElementById('messages');
+        const hitButton = document.getElementById('hit-button');
+        const standButton = document.getElementById('stand-button');
+        const newGameButton = document.getElementById('new-game-button');
+        const moneyElement = document.getElementById('money');
+        const betElement = document.getElementById('bet');
+        const betInput = document.getElementById('bet-input');
+        const placeBetButton = document.getElementById('place-bet-button');
+        const modal = document.getElementById('result-modal');
+        const resultTitle = document.getElementById('result-title');
+        const resultMessage = document.getElementById('result-message');
+        const playAgainButton = document.getElementById('play-again-button');
+
+        let dealerHand = [];
+        let playerHand = [];
+        let deck = [];
+        let money = 1000;
+        let currentBet = 0;
+
+        function createDeck() {
+            const suits = ['♠', '♥', '♦', '♣'];
+            const values = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K'];
+            deck = [];
+            for (let suit of suits) {
+                for (let value of values) {
+                    deck.push({ suit, value });
+                }
+            }
+        }
+
+        function shuffleDeck() {
+            for (let i = deck.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [deck[i], deck[j]] = [deck[j], deck[i]];
+            }
+        }
+
+        function dealCard() {
+            return deck.pop();
+        }
+
+        function calculateHandValue(hand) {
+            let value = 0;
+            let aceCount = 0;
+            for (let card of hand) {
+                if (card.value === 'A') {
+                    aceCount++;
+                    value += 11;
+                } else if (['K', 'Q', 'J'].includes(card.value)) {
+                    value += 10;
+                } else {
+                    value += parseInt(card.value);
+                }
+            }
+            while (value > 21 && aceCount > 0) {
+                value -= 10;
+                aceCount--;
+            }
+            return value;
+        }
+
+        function createCardElement(card) {
+            const cardElement = document.createElement('div');
+            cardElement.className = 'card deal-animation';
+            cardElement.setAttribute('data-suit', card.suit);
+            if (card.suit === '♥' || card.suit === '♦') {
+                cardElement.classList.add('red');
+            }
+            if (['J', 'Q', 'K'].includes(card.value)) {
+                cardElement.classList.add('face-card');
+            }
+            cardElement.textContent = card.value;
+            return cardElement;
+        }
+
+        function updateUI() {
+            dealerHandElement.innerHTML = 'Krupiye eli: ';
+            playerHandElement.innerHTML = 'Oyuncu eli: ';
+
+            dealerHand.forEach((card, index) => {
+                if (index === 0 && dealerHand.length === 2) {
+                    const hiddenCard = document.createElement('div');
+                    hiddenCard.className = 'card deal-animation';
+                    hiddenCard.textContent = '?';
+                    dealerHandElement.appendChild(hiddenCard);
+                } else {
+                    dealerHandElement.appendChild(createCardElement(card));
+                }
+            });
+
+            playerHand.forEach(card => {
+                playerHandElement.appendChild(createCardElement(card));
+            });
+
+            moneyElement.textContent = `Bakiye: $${money}`;
+            betElement.textContent = `Bahis: $${currentBet}`;
+        }
+
+        function startNewGame() {
+            dealerHand = [];
+            playerHand = [];
+            createDeck();
+            shuffleDeck();
+            currentBet = 0;
+            betElement.textContent = `Bahis: $${currentBet}`;
+            placeBetButton.disabled = false;
+            hitButton.disabled = true;
+            standButton.disabled = true;
+            betInput.disabled = false;
+            messagesElement.textContent = 'Lütfen bahsinizi yapın.';
+            updateUI();
+        }
+
+        function placeBet() {
+            const betAmount = parseInt(betInput.value);
+            if (betAmount > money) {
+                messagesElement.textContent = 'Yetersiz bakiye!';
+                return;
+            }
+            if (betAmount < 1) {
+                messagesElement.textContent = 'Geçersiz bahis miktarı!';
+                return;
+            }
+            currentBet = betAmount;
+            money -= currentBet;
+            betElement.textContent = `Bahis: $${currentBet}`;
+            moneyElement.textContent = `Bakiye: $${money}`;
+            placeBetButton.disabled = true;
+            betInput.disabled = true;
+            dealInitialCards();
+        }
+
+        function dealInitialCards() {
+            dealerHand = [dealCard(), dealCard()];
+            playerHand = [dealCard(), dealCard()];
+            updateUI();
+            hitButton.disabled = false;
+            standButton.disabled = false;
+            messagesElement.textContent = '';
+            checkForBlackjack();
+        }
+
+        function checkForBlackjack() {
+            const playerValue = calculateHandValue(playerHand);
+            const dealerValue = calculateHandValue(dealerHand);
+
+            if (playerValue === 21 && dealerValue === 21) {
+                endGame('İki taraf da Blackjack! Berabere!', 'draw');
+                money += currentBet;
+            } else if (playerValue === 21) {
+                endGame('Blackjack! Oyuncu kazandı!', 'win');
+                money += currentBet * 2.5;
+            } else if (dealerValue === 21) {
+                endGame('Krupiye Blackjack! Krupiye kazandı!', 'lose');
+            }
+            updateUI();
+        }
+
+        function playerHit() {
+            playerHand.push(dealCard());
+            updateUI();
+            if (calculateHandValue(playerHand) > 21) {
+                endGame('Oyuncu battı! Krupiye kazandı.', 'lose');
+            }
+        }
+
+        function playerStand() {
+            while (calculateHandValue(dealerHand) < 17) {
+                dealerHand.push(dealCard());
+            }
+            updateUI();
+            const playerValue = calculateHandValue(playerHand);
+            const dealerValue = calculateHandValue(dealerHand);
+            if (dealerValue > 21) {
+                endGame('Krupiye battı! Oyuncu kazandı.', 'win');
+                money += currentBet * 2;
+            } else if (playerValue > dealerValue) {
+                endGame('Oyuncu kazandı!', 'win');
+                money += currentBet * 2;
+            } else if (dealerValue > playerValue) {
+                endGame('Krupiye kazandı!', 'lose');
+            } else {
+                endGame('Berabere!', 'draw');
+                money += currentBet;
+            }
+            updateUI();
+        }
+
+        function endGame(message, result) {
+            hitButton.disabled = true;
+            standButton.disabled = true;
+            updateUI();
+
+            let title, className;
+            switch(result) {
+                case 'win':
+                    title = 'Tebrikler!';
+                    className = 'win';
+                    break;
+                case 'lose':
+                    title = 'Üzgünüm!';
+                    className = 'lose';
+                    break;
+                case 'draw':
+                    title = 'Berabere!';
+                    className = '';
+                    break;
+            }
+
+            resultTitle.textContent = title;
+            resultTitle.className = className;
+            resultMessage.textContent = message;
+            modal.style.display = 'block';
+        }
+
+        function closeModal() {
+            modal.style.display = 'none';
+        }
+
+        hitButton.addEventListener('click', playerHit);
+        standButton.addEventListener('click', playerStand);
+        newGameButton.addEventListener('click', startNewGame);
+        placeBetButton.addEventListener('click', placeBet);
+        playAgainButton.addEventListener('click', () => {
+            closeModal();
+            startNewGame();
+        });
+
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                closeModal();
+            }
+        }
+
+        startNewGame();
+    </script>
+</body>
+</html>
