@@ -89,13 +89,13 @@ Tanrı insanı kendi suretinde yarattı, onu Tanrı'nın suretinde yarattı. Onl
 - Yar. 1:26-27  
 
 İlgili ayette getirilen eleştiri şudur:  
-Tanrı'nın bir sureti ve dolayısıyla maddî ve formal nedene sahip olduğu manası mı çıkar?  
+Tanrı'nın bir sureti var ise dolayısıyla maddî ve formal nedenlere sahip olduğu manası mı çıkar?  
 
-Buna şu cevabı veririm John 4:24'de Tanrı'nın ruh olduğunu söyleyen kitap burada suretten kastının bu olmadığı açıktır. Elbette İlk Nedene sahip olan Tanrı, bundan münezzehtir.  
-Bunun için ["Şu Link"](https://padrosum.github.io/yazılar/Tanrının-mahiyeti.html)'deki yazımı okuyabilirsiniz. Bu ifadelerin maksadını bir yahudi tarafından şu şekilde anlaşılamtadır: [Link](https://x.com/danieljudah121/status/1812011757541450170).
+Tanrı'nın insanı kendi suretinde yaratması, onun Tanrı'nın özünden sudur ettiği manası çıkar. Sudur ile alakalı görüşlerimi [Şu linkten](https://padrosum.github.io/yazılar/Tanrının-mahiyeti.html) ulaşabilirsiniz.  
+
 
 Eren gibi felsefeyi reddeden veyahud bu açıklamaları yeretsiz görenler için:  
-[Buhari'deki Allah'ın Adem'i kendi suretinde yaratması hadisi](https://sunnah.com/bukhari:6227)
+[Buhari'deki Allah'ın Adem'i kendi suretinde yaratması hadisi](https://sunnah.com/bukhari:6227)  
 
 
 ##### **Ebedi Tanrı, dinlenir mi?**  
