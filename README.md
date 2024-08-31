@@ -152,7 +152,9 @@ Gelenek ilgili ayetteki benzer göründü ibaresinden ve bağlamdan ötürü bir
 
 ## İlahî Kitapların tahrifini manada görenler:
 
-VEHB b. MÜNEBBİH, [Kaynak](https://tafsir.app/ibn-katheer/3/78)
+- VEHB b. MÜNEBBİH, [Kaynak](https://tafsir.app/ibn-katheer/3/78)
+- Ibn Haldun, [Kaynak](https://dergipark.org.tr/en/download/article-file/1751336), sf 570. (Dolaylı kaynak, İbn Haldûn, 2005: I, 17; İbn Aşûr,
+1420/2000: II, 121; VI, 110, 213 vd)
 
 
 ## Şiir
