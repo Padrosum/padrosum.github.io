@@ -3,6 +3,10 @@
 Linkler:  
 [Twitter](https://x.com/padrosum)  
 [Yazılar](https://padrosum.github.io/yazılar/index.html)  
+
+
+[Mukatil b. Süleyman'ın Tefsiri H150.](https://archive.org/details/MukatilTefsiriKebir/Mukatil%20-Tefsiri%20Kebir%201/)  
+[Kitabullah: Yaratılış - Padros](https://padrosum.github.io/yaratilis/)  
 [Yeni Dünya Çevirisi - Yahova Şahitleri](https://www.jw.org/tr/kutuphane/kutsal-kitap/bi12/kitaplar/)  
 [Eski Çeviri](https://www.presbiteryen.org/kkeski.html)  
 [Açıklamalı Kutsal Kitap](https://kutsalkitap.info.tr)  
