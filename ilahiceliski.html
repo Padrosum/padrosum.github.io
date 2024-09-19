@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Okuyucu</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 20px;
+        }
+        #pdf-viewer {
+            width: 100%;
+            max-width: 800px;
+            height: 600px;
+            border: 1px solid #ccc;
+            overflow: auto;
+        }
+        #navigation {
+            margin-top: 10px;
+        }
+        button {
+            margin: 0 5px;
+            padding: 5px 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>PDF Okuyucu</h1>
+    <div id="pdf-viewer"></div>
+    <div id="navigation">
+        <button id="prev">Önceki Sayfa</button>
+        <span id="page-num"></span> / <span id="page-count"></span>
+        <button id="next">Sonraki Sayfa</button>
+    </div>
+
+    <script>
+        // PDF.js'yi yapılandır
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.worker.min.js';
+
+        let pdfDoc = null,
+            pageNum = 1,
+            pageRendering = false,
+            pageNumPending = null,
+            scale = 1.5;
+
+        const canvas = document.createElement('canvas'),
+              ctx = canvas.getContext('2d'),
+              viewer = document.getElementById('pdf-viewer'),
+              prevButton = document.getElementById('prev'),
+              nextButton = document.getElementById('next'),
+              pageNumSpan = document.getElementById('page-num'),
+              pageCountSpan = document.getElementById('page-count');
+
+        viewer.appendChild(canvas);
+
+        // PDF'yi yükle ve ilk sayfayı göster
+        pdfjsLib.getDocument('b.pdf').promise.then(function(pdf) {
+            pdfDoc = pdf;
+            pageCountSpan.textContent = pdf.numPages;
+            renderPage(pageNum);
+        });
+
+        function renderPage(num) {
+            pageRendering = true;
+            pdfDoc.getPage(num).then(function(page) {
+                const viewport = page.getViewport({scale: scale});
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
+
+                const renderContext = {
+                    canvasContext: ctx,
+                    viewport: viewport
+                };
+                const renderTask = page.render(renderContext);
+
+                renderTask.promise.then(function() {
+                    pageRendering = false;
+                    if (pageNumPending !== null) {
+                        renderPage(pageNumPending);
+                        pageNumPending = null;
+                    }
+                });
+            });
+
+            pageNumSpan.textContent = num;
+        }
+
+        function queueRenderPage(num) {
+            if (pageRendering) {
+                pageNumPending = num;
+            } else {
+                renderPage(num);
+            }
+        }
+
+        function showPrevPage() {
+            if (pageNum <= 1) {
+                return;
+            }
+            pageNum--;
+            queueRenderPage(pageNum);
+        }
+
+        function showNextPage() {
+            if (pageNum >= pdfDoc.numPages) {
+                return;
+            }
+            pageNum++;
+            queueRenderPage(pageNum);
+        }
+
+        prevButton.addEventListener('click', showPrevPage);
+        nextButton.addEventListener('click', showNextPage);
+    </script>
+</body>
+</html>
