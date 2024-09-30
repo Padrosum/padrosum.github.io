@@ -18,66 +18,18 @@ Linkler:
 [Muhammed Esed Tefsir](https://kuran.gen.tr/fatiha-suresi-turkce-muhammed-esed-kuran-tefsiri?x=s_main&y=s_middle&kid=31&sid=1) - Ehl-i Sünnet'ten iyidir.  
 [Mustafa Öztürk](https://www.kitapyurdu.com/kitap/kurani-kerim-meali-anlam-ve-yorum-merkezli-ceviri-buyuk-boy/354952.html?srsltid=AfmBOoqpMNRgx1SslL-3aJIt5e4UYVhsRDPJZy9fGJeqf2zCvfYvZwDW) - Bilgili bir hocamız.  
 
-# Muahidlik Nedir?
-### Mukaddime
-Evvelinde bizler tanah ve cedid metinlerinin manasında tahrifi kabul ettiğimizi ancak gerek Kur'andan gerek ise eski mushaflardan ötürü bu metinlerin lafzî tahrifden yoksun olduğu görüşünde olduğumuzu sizlere belirtmek isterim [Delil](https://tafsir.app/ibn-katheer/3/78). **Nitekim Tahrif'in manası şudur "Sözlükte “yönelmek, meyletmek, sapmak” mânasındaki harf kökünden türeyen tahrîf “iki şekilde yorumlanması mümkün olan bir sözü bir tarafa çekmek” (Râgıb el-İsfahânî, el-Müfredât, “ḥrf” md.), “kelimenin veya sözün anlamını benzer anlamlarla değiştirmek” (Lisânü’l-ʿArab, “ḥrf” md.)" [Kaynak](https://islamansiklopedisi.org.tr/tahrif--kitap).** Bir de hızlıca bu metinlerdeki amelî hükümlerin kendi bağlıları için olduğunu belirtmek isterim(5:48).  
-Bizim üç temel ilkemiz vardır. Bunlar şunlardır:  
+## Ahitçilik Nedir?
 
-- Tasdik ilişkisi  
-- Hıfz-ı Zikr  
-- Resul-Nebi ilişkisi  
+Ahitçilik, iki kutsal kitap kütüphanesini yani Tanah ve Cedid'i tam anlamıyla kabul eden bunları gerek Kur'an yorumunda kullanan kişilerin adıdır. Kur'andaki Bakara 40-41, 3:3 gibi ayetlerden yola çıkarak bu kitapların değişmediğini çünkü ilahî tasdikten geçtiklerini düşünenen müslimlerdir. Gerek Sayıcı ve İrancı cemaat tarafından kullanılan bu mahlas asli manada bu ikisiyle hiçbir alakası yoktur. Ne tahrifatçıdır ne de bu kitaplara imanı lafta bırakıp sünni düşmanlığı yaparken şii taparlık yapmaktır. 
 
-Bunları ilerleyen kısımlarda teker teker göreceğiz.
-
-### Tasdik ilişkisi
-
-Tasdik, sdk'ın -mek/maklısıdır nitekim *musadık* ise bunun fail'idir. Sözlükte doğrulamak anlamına gelen bu kelime Kur'an'da bir şeyi tam manasıyla doğrulamak manasında kullanılmıştır(37:52). Önceki kitaplar için de 2:40-41, 3:3, 5:48 vb ayetlerinde, bu kitapları doğrulaması da aynı anlamdadır.  
-
-Nitekim müfessir Taberi 3:3'deki tasdik için şunları söylemiştir:  
-"Öncekileri tasdik edici olarak” ise, bu, Kur’an’ın, Allah’ın peygamberlerine ve elçilerine indirdiği daha önceki kitapları tasdik ettiğini, Allah’ın elçilerinin getirdiği şeyleri doğruladığını ifade eder. Çünkü tüm bunları indiren tek bir kaynaktır, dolayısıyla aralarında bir çelişki olmaz. Eğer başkasından olsaydı, içinde birçok çelişki olurdu."  
-[Kaynak](https://tafsir.app/tabari/3/3)
-
-Tarihî ve Kitabî bilgiler bize şu gerçeği göstermektedir ki İncil bağlıları kendi kitaplarının yanında Tevrat'ı da kabul edip itikadî konularda kullanıyordu. Kur'an ise Maide 46'de İsa'nın Tevrat'ı tasdik ettiğini söylemektedir. Bu iki bilgi ışığında 3:3'deki Kur'an'ın tasdiğini de aynı anlamda anlamak gerekir.
-
-"Kanunu ya da Peygamberlerin sözlerini geçersiz kılmak için geldiğimi düşünmeyin. Ben bunları geçersiz kılmaya değil, yerine getirmeye geldim."
-- Matt 5:17
-
-[Daha fazlası için](https://hikmetmetodu.blogspot.com/2023/12/nesh-tasdik-iliskisi-tevrat-ve-incil_30.html), Tasdik babı. 
-
-### Hıfz-ı Zikr
-
-Kelime kelime anlamı Zikr'in korunmuşluğu olan bu ilke 15:9 çevresinde dönmektedir. Grammer kitaplarında El takısı *X( [Kaynak](https://isamveri.org/pdfdrg/D01777/2004_18/2004_18_GURKANN.pdf) ), sf 365, Cinsi Belirleme babı*'ndaki gibi yorumlanması münkündür. Bu bakımdan El-Zikr'i cins isim olarak ele alırsak Kur'anda zikr hangi kitap için de kullanıldığını 21:105'den bakarsak ilgili ayetten şunu anlarız "Şüphesiz Zikr'i(Tevrat, Kuran) biz indirdik ve koruyanda biziz". 
-
-"Zebur'da - ki o Zikr'den sonradır - Salih kullarım yeryüzüne varis olacak diye yazmıştık."
-- 21:105, Kur'an  
-
-"Şüphesiz Zikr'i indiren biziz, koruyan da elbette biziz."
-- 15:9, Kur'an.  
-
-"Nitekim,
-“İnsan soyu ota benzer,
-Bütün yüceliği kır çiçeği gibidir.
-Ot kurur, çiçek solar,
-Ama Rab'bin sözü sonsuza dek kalır.”
-İşte size müjdelenmiş olan söz budur."
-- 1 Petrus 1:24-25, İncil.  
-
-"Ot kurur, çiçek solar,
-Ama Tanrımız'ın sözü sonsuza dek durur."
-- İşeya 40:8, Tanah.  
+Ahitçilik, yukarıda anlattığımızın yanında şöyle bir ilkesi daha vardır ki o bu kitapların ilahî korumada olduğuna dair beyanatlardır. Bunlar arasında Tanah'ın kendi içinde kendisinin değişmeyeceğini söyleyen ayetlerin yanında İncil metninde hem kendisinin hem de Tanah'ın değişmeyeceğine dair atıflardır. Eğer geleneğin iddiası gibi bu tasdik sadece kaynağa yönelik ise o zaman bu kitaplar kendi beyanı olan 1)Tanrı adına konuşmak 2)Vaadin gerçekleşmesi (Tkr. 18:21-22) bu iki şartı yerine getirmeyecektir ve dolayısıyla bu kitapların kaynağı ilahî olamayacağından bu kitapların ilahî kaynaklı olduğunu iddia eden Kur'an yanlış birşey söyleyeceğinden reddedilmelidir!.. Ancak Kur'an yanlış birşey söylememkte ve bu kitapları doğrulamaktadır.  Daha fazlası için [Oku](https://padrosum.github.io/Musaddik.html)
  
-### Resul-Nebî
-
-Kur'anı düz okuma methoduyla okuduğumuzda bir şey fark ederiz o da Kur'anda insan ve melekler için Resul lafzı kullanılırken hiçbir yerde Melekler için nebî lafzı kullanılmamaktadır.  
-Bu yüzden şöyle bir tasnif yaparız:  
-- Resul: Melekler ve İnsanlar  
-- Nebi:İnsan/Beşerî Resul idir.
-
-<img src="https://pbs.twimg.com/media/GTMYWB5WoAEv2o2?format=png&name=small" width="200" height="200">
 
 
 
-### Kutsal Kitap Eleştirileri
+## Kutsal Kitap Eleştirileri
+
+Kitabullah, bir biriyle çelişmeyen kitaplar bütünüdür. Eğer ki bir çelişki var ise bu çelişki nüzul ortamının bilgi düzeyine veya en geniş anlamıyla diline hakim olarak açıklanabilir, veya genel anlamda Tevhid'i bozmadığı sürece bu çelişkiler o topluma yönelik bölgesel ayetler olduğu kabul edilir. Ancak yine de sözde çelişkilerin bu metodun kullanılmamasına rağmen olmadığını sizlere anlatacağım.
 
 Bu başlık altında kendine müslüman diyen ve Kur'an bağlısı olduğunu iddia edenlerin, Kur'an'daki yukarıdaki ilk iki ilkeye rağmen Kitabullah'a attıkları iftiralara değineceğiz.   İki alt başlığa ayrılan bu bölümün başlıkları şunlardır:  
 
